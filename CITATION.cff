@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this artifact, please cite the associated manuscript and this repository."
+title: "Evidence-Complete Admission and Durable Recovery in AI Inference Services: Reproducibility Artifact"
+type: software
+authors:
+  - family-names: Gaurav
+    given-names: Apurv
+version: 1.0.0
+date-released: 2026-11-01
+repository-code: "https://github.com/apurvgaurav/evidence-complete-ai-inference"
+abstract: >-
+  Reproducibility artifact supporting a 3,000-episode mechanism study of
+  evidence-complete admission and durable recovery in AI inference services.
+keywords:
+  - AI inference services
+  - evidence completeness
+  - transactional outbox
+  - fault recovery
+  - runtime verification
+  - reproducibility
