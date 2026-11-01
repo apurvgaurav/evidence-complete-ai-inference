@@ -2,7 +2,7 @@
 
 The manuscript is bound to one exact audited evidence ZIP:
 
-`HCC_M54_MAC_PUBLIC_RETURN_ea84833e-cb15-4099-8f99-26415c4861ca.zip`
+`HCC_M54_MAC_PUBLIC_RETURN_ea84833e-cb15-4099-8f99-26415c4861ca.2.zip`
 
 Expected properties:
 
