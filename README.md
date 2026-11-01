@@ -27,13 +27,13 @@ The exact audited evidence ZIP will be attached to the GitHub Release tagged `v1
 
 Expected asset name:
 
-`HCC_M54_MAC_PUBLIC_RETURN_ea84833e-cb15-4099-8f99-26415c4861ca.zip`
+`HCC_M54_MAC_PUBLIC_RETURN_ea84833e-cb15-4099-8f99-26415c4861ca.2.zip`
 
 After downloading it into `evidence/`, run:
 
 ```bash
-python3 verification/verify_artifact.py evidence/HCC_M54_MAC_PUBLIC_RETURN_ea84833e-cb15-4099-8f99-26415c4861ca.zip
-python3 verification/recompute_primary_results.py evidence/HCC_M54_MAC_PUBLIC_RETURN_ea84833e-cb15-4099-8f99-26415c4861ca.zip
+python3 verification/verify_artifact.py evidence/HCC_M54_MAC_PUBLIC_RETURN_ea84833e-cb15-4099-8f99-26415c4861ca.2.zip
+python3 verification/recompute_primary_results.py evidence/HCC_M54_MAC_PUBLIC_RETURN_ea84833e-cb15-4099-8f99-26415c4861ca.2.zip
 ```
 
 The scripts require Python 3.10+ and use only the standard library. They do **not** rerun the scientific experiment.
